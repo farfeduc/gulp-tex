@@ -6,7 +6,7 @@ This is a modular gulp starterkit to compile latex files and use livereload to s
 
 ## Installation
 
-First you need Latex, the Latex wrapper : [clic here for instructions](!https://github.com/mikolalysenko/node-latex) and [npm](!https://docs.npmjs.com/getting-started/installing-node) 
+First you need Latex, the Latex wrapper : [clic here for instructions](https://github.com/mikolalysenko/node-latex) and [npm](https://docs.npmjs.com/getting-started/installing-node) 
 
 Then you clone the repo and install the dependencies : 
 
