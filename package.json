@@ -1,0 +1,19 @@
+{
+  "name": "Gulp-tex",
+  "version": "0.0.1",
+  "description": "Gulp-tex",
+  "main": "none",
+  "dependencies": {},
+  "devDependencies": {
+    "latex": "^0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "gulp-livereload": "^3.8.1",
+    "gulp-latex": "^1.0.1",
+    "del": "^2.2.0",
+    "require-dir": "^0.3.0"
+},
+  "author": "Adrien Girardeau",
+  "license": "MIT"
+}
